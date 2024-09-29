@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qojakaruviku.netlify.app/sitemap.xml
